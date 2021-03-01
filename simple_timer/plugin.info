@@ -1,0 +1,10 @@
+[Plugin]
+Name = Simple Timer
+Version = 1.0.0
+License = MIT
+URL = https://github.com/mcoyne1948/simple_timer
+Description = Very basic elapse timer
+
+[Author]
+Name = Malcolm Coyne
+URL = https://malcolmc.ca/
